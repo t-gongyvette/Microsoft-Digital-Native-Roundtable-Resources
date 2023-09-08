@@ -1,7 +1,7 @@
 # Microsoft-Digital-Native-Roundtable-Resources-WBC
 ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
 
-Discover how you can build your business as a startup or digital native company on Azure Cloud. Check out this repository of content including presentations, programs, benefits and more.
+Discover how you can build your startup or digital native business using Azure Cloud. Check out this repository of content including programs, benefits and more.
 
 
 ## Featured Content
