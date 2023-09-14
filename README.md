@@ -9,11 +9,11 @@ Learn with Microsoft through these programs to take your technical skills to the
 | Resource | Description |
 | --- | --- | 
 | [Azure SaaS Dev Kit Docs](https://azure.github.io/azure-saas/) | The Azure SaaS Dev Kit Docs is a deployable reference implementation with pre-built modules designed to help you build your own cloud-native SaaS offerings. |
-| [Microsoft SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) | Microsoft SaaS Academy brings together best practices and guidance from Microsoft employees, partners, and customers to help businesses accelerate their “Software as a Service”.|
-| [Sell with Microsoft](https://partner.microsoft.com/en-US/partnership/sell-with-microsoft) | Create a winning sales strategy, scale your reach with the Microsoft commercial marketplace, and prepare for co-sell eligibility.|
-| [Partner Go‑To‑Market Toolbox](https://ppt.msftgtmtoolbox.com/) | Explore the one-stop toolbox for real-time access to co-branded asset templates, branded sales content, and asset engagement insights.|
-| [Microsoft for Startups | Founders Hub](https://www.microsoft.com/en-us/startups?rtc=1) | Sign up for Microsoft for Startups | Founders Hub radically accelerate innovation by providing access to industry-leading AI services, expert guidance, and the essential technology needed to build a future-proofed startup.|
-| [ISV Success](https://www.microsoft.com/en-us/isv/success-application) | Signup for ISV Success Program to get free tools, consulting, and resources to help build your solution and reach millions of potential customers on the Microsoft commercial marketplace.|
+| [Microsoft SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main) | Microsoft SaaS Academy brings together best practices and guidance from Microsoft employees, partners, and customers to help businesses accelerate your “Software as a Service”.|
+| [Sell with Microsoft](https://partner.microsoft.com/en-US/partnership/sell-with-microsoft) | Discover how you can create a winning sales strategy, scale your reach with the Microsoft commercial marketplace, and prepare for co-sell eligibility with the largest AI technology ecosystem in the world.|
+| [Partner Go‑To‑Market Toolbox](https://ppt.msftgtmtoolbox.com/) | Get started now for real-time access to asset templates, sales content, and engagement insights. This will enable your business to co-brand for impact, market smarter and faster, and generate more sales leads.|
+| [Microsoft for Startups \| Founders Hub](https://www.microsoft.com/en-us/startups?rtc=1) | Sign up for Founders Hub to radically accelerate innovation by providing access to industry-leading AI services, expert guidance, and the essential technology needed to build a future-proofed startup.|
+| [ISV Success](https://www.microsoft.com/en-us/isv/success-application) | Sign up for the ISV Success Program to get free tools, consulting, and resources to help build your solution and reach millions of potential customers on the Microsoft commercial marketplace.|
 ---
 
 ## Stay Connected with Microsoft - Microsoft .Source Newsletter
